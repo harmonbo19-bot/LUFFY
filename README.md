@@ -57,9 +57,6 @@ LUFFY/
 ### 📝 Complete TODO List
 
 ### deepscaler
-- [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
-- [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
-- [ ] **luffy/deepscaler/utils.py:47** - Add timeout configuration for API calls
 - [ ] **luffy/deepscaler/utils.py:107** - TODO: Implement Vertex AI initialization and authentication
 - [ ] **luffy/deepscaler/utils.py:108** - TODO: Configure safety settings for content generation
 - [ ] **luffy/deepscaler/utils.py:109** - TODO: Set up GenerativeModel with proper system instructions
@@ -70,8 +67,6 @@ LUFFY/
 - [ ] **luffy/deepscaler/utils.py:114** - TODO: Add support for different generation configurations
 
 ### Data / Protocol
-- [ ] **luffy/verl/verl/protocol.py:114** - Optimize memory usage during tensor reshaping
-- [ ] **luffy/verl/verl/protocol.py:115** - Add support for different tensor types and shapes
 - [ ] **luffy/verl/verl/protocol.py:136** - TODO: Optimize tensor view operations for performance
 - [ ] **luffy/verl/verl/protocol.py:137** - TODO: Add error handling for invalid batch dimensions
 - [ ] **luffy/verl/verl/protocol.py:169** - TODO(zhangchi.usc1992) add consistency check
